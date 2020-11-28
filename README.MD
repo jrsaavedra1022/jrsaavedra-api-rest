@@ -18,3 +18,5 @@ https://api.nasa.gov/
 https://pokeapi.co/
 # Lista de APIS
 https://github.com/public-apis/public-apis
+# API - rick and morty
+https://rickandmortyapi.com/
